@@ -1,0 +1,74 @@
+body {
+    background-image: url(fon3.jpg);
+    background-size: cover;
+}
+
+
+.t {
+    background-color: #00FF00;
+    position: absolute;
+    top: 100px;
+    right: 50px;
+    width: 400px;
+    height: 430px;
+    border-radius: 10px;
+    font-size: 90px;
+    font-family: arial;
+    color: white;
+}
+
+.v {
+    background-color: black;
+    position: relative;
+    top: 50px;
+    left: 90px;
+    width: 900px;
+    height: 550px;
+    border-radius: 10px;
+}
+
+video[Attributes Style] {
+    width: 900px;
+}
+
+.pp {
+    background-color: #0000FF;
+    position: absolute;
+    bottom: 100px;
+    left: 1200px;
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 50px;
+    font-family: arial;
+}
+user agent stylesheet
+button {
+    appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(buttontext, rgb(170, 170, 170));
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(74, 74, 74));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
+    border-image: initial;
+}
+
+body {
+    background-image: url(fon3.jpg);
+    background-size: cover;
+}
